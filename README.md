@@ -6,11 +6,11 @@
 </p>
 
 ## Profile
-- `Name` : Sung MyungGun (Hugo)
-- `Email` : personar95@naver.com
+- `Name` : Kwon Dohyeong ()
+- `Email` : bazzi95@naver.com
 - 🔭 I'm currently working as an **IoT instructor**
-  - Major : C#, Smart Factory, IoT Development
-  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
+  - Major : RPA(UIPATH), C#, Smart Factory, IoT Development
+  - Minor : Python, Java, C#, RPA
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
@@ -75,7 +75,7 @@
 -->
 
 ## Project List
-- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
+- [Website] [bazzi Portfolio site](https://.github.io)
 - [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
 - [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
 - [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
