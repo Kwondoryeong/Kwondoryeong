@@ -75,7 +75,7 @@
 -->
 
 ## Project List
-- [Website] [bazzi Portfolio site](https://.github.io)
+- [Website] [Kwondoryeong Portfolio site](https://Kwondoryeong.github.io)
 - [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
 - [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
 - [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
