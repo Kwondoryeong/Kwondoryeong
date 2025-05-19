@@ -9,13 +9,12 @@
 - `Name` : Kwon Dohyeong ()
 - `Email` : bazzi95@naver.com
 - 🔭 I'm currently working as an **IoT instructor**
-  - Major : RPA(UIPATH), C#, Smart Factory, IoT Development
-  - Minor : Python, Java, C#, RPA
- 
+  - Major : RPA(UIPATH), Python, Smart Factory, IoT Development
+  - Minor : Python, Java
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
+  <a href="https://github.com/Kwondoryeong">
     <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
   </a>
@@ -76,11 +75,11 @@
 
 ## Project List
 - [Website] [Kwondoryeong Portfolio site](https://Kwondoryeong.github.io)
-- [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
-- [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
-- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
-- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
-- [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024)
+- [WinForm] [WinForms프로젝트](https://github.com/Kwondoryeong/iot-winapp-2025/tree/main/toyproject)
+- [WPF] [WPF프로젝트](https://github.com/Kwondoryeong/works-need-it-cshap/tree/main/studyWpf/portfolio)
+- [IoT] [IoT프로젝트](https://github.com/hKwondoryeong/works-need-it-IoT/tree/main/energy_management_system)
+- [Python] [Python강의 프로젝트](https://github.com/Kwondoryeong/iot-python-2025)
+- [Spring Boot] [SpringBoot](https://github.com/Kwondoryeong/basic-python-2024)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
