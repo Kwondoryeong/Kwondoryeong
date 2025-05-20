@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align='center'>
   <a href="https://github.com/Kwondoryeong">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=doryeong's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=RPA,%20CSharp,Python%20Lecturer"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=doryeong's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=RPA,%20Python, CSharp%20Lecturer"/>
   </a>
 </p>
 
@@ -10,13 +10,13 @@
 - `Email` : bazzi95@naver.com
 - 🔭 I'm currently working as an **IoT instructor**
   - Major : RPA(UIPATH), Python, Smart Factory, IoT Development
-  - Minor : Python, Java
+  - Minor : C, C++, C#, Java
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
   <a href="https://github.com/Kwondoryeong">
-    <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kwondoryeong&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwondoryeong&theme=tokyonight&layout=compact"/>
   </a>
 </p>
 
@@ -39,13 +39,13 @@
 
 ## Using Technics
 <p align='left'>
-  <img height="40" src="https://raw.githubusercontent.com/hugoMGSung/hugoMGSung/main/images/wpf.png" title="WPF"> 
-  <img height="40" src="https://cdn-icons-png.flaticon.com/256/7808/7808214.png" title="SmartFactory">  
-  <img height="40" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" title="ASP.NET Core">  
-  <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
-  <img height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> 
+  <img height="40" src="https://raw.githubusercontent.com/Kwondoryeong/hugoMGSung/main/images/wpf.png" title="WPF"> 
+  <img height="40" src="https://cdn-icons-png.flaticon.com/256/7808/7808214.png" title="SmartFactory">
+  <!-- <img height="40" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" title="ASP.NET Core"> -->
+  <!-- <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  -->
+  <!-- <img height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> -->
   <img height="40" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
-  <img height="40" src="https://img.icons8.com/?size=100&id=UeryvfCLUAc3&format=png&color=000000" title="ML/DL"> 
+  <!-- <img height="40" src="https://img.icons8.com/?size=100&id=UeryvfCLUAc3&format=png&color=000000" title="ML/DL"> -->
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
   
   <img height="40" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" title="OpenCV">
@@ -76,10 +76,11 @@
 ## Project List
 - [Website] [Kwondoryeong Portfolio site](https://Kwondoryeong.github.io)
 - [WinForm] [WinForms프로젝트](https://github.com/Kwondoryeong/iot-winapp-2025/tree/main/toyproject)
-- [WPF] [WPF프로젝트](https://github.com/Kwondoryeong/works-need-it-cshap/tree/main/studyWpf/portfolio)
-- [IoT] [IoT프로젝트](https://github.com/hKwondoryeong/works-need-it-IoT/tree/main/energy_management_system)
+- [WPF] [WPF프로젝트](https://github.com/Kwondoryeong/iot-wpf-2025)
+- [IoT] [IoT프로젝트](https://github.com/Kwondoryeong)
 - [Python] [Python강의 프로젝트](https://github.com/Kwondoryeong/iot-python-2025)
-- [Spring Boot] [SpringBoot](https://github.com/Kwondoryeong/basic-python-2024)
+- [C++] [C++프로젝트](https://github.com/Kwondoryeong/iot-cpp-2025)
+- [C][C프로젝트](https://github.com/Kwondoryeong/iot-c-2025)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
