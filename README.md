@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align='center'>
   <a href="https://github.com/Kwondoryeong">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=doryeong's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%20RPA,Python,CSharp%20Lecturer"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=doryeong's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%20RPA, Python, CSharp%20Lecturer"/>
   </a>
 </p>
 
