@@ -75,7 +75,7 @@
 -->
 
 ## Project List
-- [Website] [Kwondoryeong Portfolio site](https://Kwondoryeong.github.io)
+<!-- - [Website] [Kwondoryeong Portfolio site](https://Kwondoryeong.github.io) -->
 - [WinForm] [WinForms프로젝트](https://github.com/Kwondoryeong/iot-winapp-2025/tree/main/toyproject)
 - [WPF] [WPF프로젝트](https://github.com/Kwondoryeong/iot-wpf-2025)
 - [IoT] [IoT프로젝트](https://github.com/Kwondoryeong)
