@@ -39,7 +39,7 @@
 
 ## Using Technics
 <p align='left'>
-  <img height="40" src="https://raw.githubusercontent.com/Kwondoryeong/hugoMGSung/main/images/wpf.png" title="WPF"> 
+  <img height="40" src="https://raw.githubusercontent.com/Kwondoryeong/Kwondoryeong/main/images/wpf.png" title="WPF"> 
   <img height="40" src="https://cdn-icons-png.flaticon.com/256/7808/7808214.png" title="SmartFactory">
   <!-- <img height="40" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" title="ASP.NET Core"> -->
   <!-- <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  -->
@@ -61,7 +61,8 @@
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
-  <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="Jetbrains">
+  <!-- <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="Jetbrains"> -->
+  <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="UIPATH">
   <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3" title="Android Studio">
 </p>
 
