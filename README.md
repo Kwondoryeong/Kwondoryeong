@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 <p align='center'>
   <a href="https://github.com/Kwondoryeong">
     <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=doryeong's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=RPA,%20Python,%20CSharp%20Lecturer"/>
@@ -9,7 +9,7 @@
 - `Name` : Kwon Dohyeong ()
 - `Email` : bazzi95@naver.com
 - 🔭 I'm currently working as an **IoT instructor**
-  - Major : RPA(UIPATH), Python, Smart Factory, IoT Development
+  - Major : RPA, Python, Smart Factory, IoT Development
   - Minor : C, C++, C#, Java
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
@@ -22,17 +22,18 @@
 
 ## Using Languages
 <p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="Python">
     <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
-    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
+    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="C#">
     <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
-    <img width="40" height="40" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin" title="Kotlin">
-    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
+    <!-- <img width="40" height="40" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin" title="Kotlin"> -->
+    <!-- <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript"> -->
     <img height="40" src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" title="VisualBasic">
-    <img width="40" height="40" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo" title="Go">
-    <img height="40" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000" title="Delphi">
-    <img height="40" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" title="PHP">
+    <!-- <img width="40" height="40" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo" title="Go"> -->
+    <!-- <img height="40" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000" title="Delphi"> -->
+    <!-- <img height="40" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" title="PHP"> -->
     <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
+    <img height="40" src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" title="PL/SQL">
     <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server" title="SQL Server">
     <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
 </p>
@@ -48,8 +49,8 @@
   <!-- <img height="40" src="https://img.icons8.com/?size=100&id=UeryvfCLUAc3&format=png&color=000000" title="ML/DL"> -->
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
   
-  <img height="40" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" title="OpenCV">
-  <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
+  <!-- <img height="40" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" title="OpenCV"> -->
+  <!-- <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino"> -->
   <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
   <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
   <!-- 
@@ -79,9 +80,9 @@
 - [WinForm] [WinForms프로젝트](https://github.com/Kwondoryeong/iot-winapp-2025/tree/main/toyproject)
 - [WPF] [WPF프로젝트](https://github.com/Kwondoryeong/iot-wpf-2025)
 - [IoT] [IoT프로젝트](https://github.com/Kwondoryeong)
-- [Python] [Python강의 프로젝트](https://github.com/Kwondoryeong/iot-python-2025)
+- [Python] [Python프로젝트](https://github.com/Kwondoryeong/iot-python-2025)
 - [C++] [C++프로젝트](https://github.com/Kwondoryeong/iot-cpp-2025)
-- [C][C프로젝트](https://github.com/Kwondoryeong/iot-c-2025)
+- [C] [C프로젝트](https://github.com/Kwondoryeong/iot-c-2025)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
