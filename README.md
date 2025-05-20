@@ -8,9 +8,9 @@
 ## Profile
 - `Name` : Kwon Dohyeong ()
 - `Email` : bazzi95@naver.com
-- 🔭 I'm currently working as an **IoT instructor**
+<!-- - 🔭 I'm currently working as an **IoT instructor** -->
   - Major : RPA, Python, Smart Factory, IoT Development
-  - Minor : C, C++, C#, Java
+  - Minor : C, C++, C#, VisualBasic, Java
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
