@@ -68,6 +68,15 @@
   <!-- <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="Jetbrains"> -->
 </p>
 
+##
+<div>
+  <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={bazzi95}&theme=dark) -->
+  <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={bazzi95})](https://solved.ac/{bazzi95}) -->
+  <p align='left'>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bazzi95"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=bazzi95&theme=cold" />
+  </p>
+</div>
 
 <!--
 ## 기술명세
@@ -88,13 +97,13 @@
 
 ## 
 <p align='left'>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kwondoryeong&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Kwondoryeong"
-  width="500"
-  height="200"
-/>
-</a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kwondoryeong&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/Kwondoryeong"
+      width="500"
+      height="200"
+    />
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
