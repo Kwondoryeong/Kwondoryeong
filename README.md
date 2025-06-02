@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋 -->
+## Hi there 👋
 <p align='center'>
   <a href="https://github.com/Kwondoryeong">
     <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=doryeong's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=RPA,%20Python,%20CSharp%20Lecturer"/>
@@ -70,11 +70,11 @@
 
 ##
 <div>
-  <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={bazzi95}&theme=dark) -->
-  <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={bazzi95})](https://solved.ac/{bazzi95}) -->
+  <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={bestlife}&theme=dark) -->
+  <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={bestlife})](https://solved.ac/{bazzi95}) -->
   <p align='left'>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bazzi95"/>
-    <img src="http://mazandi.herokuapp.com/api?handle=bazzi95&theme=cold" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bestlife"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=bestlife&theme=cold" />
   </p>
 </div>
 
